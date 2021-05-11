@@ -3,6 +3,7 @@
 //内部可拥有状态，调用比函数指针快
 #include <iostream>
 #include "cpp11.h"
+#include <vector>
 //extern template void print(vector<int> &vec);
 //
 //extern template void InsertOrder(vector<int> &vec);
